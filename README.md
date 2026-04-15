@@ -1,1 +1,1 @@
-# NCET_GenAI_Bot
+# Ai_Ai_Bot
